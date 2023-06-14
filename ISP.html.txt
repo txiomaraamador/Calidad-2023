@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
-<head><meta charset="utf-8">
-	<title>Xiomara Lizeth Amador Aguilera</title>
+<head>
+	<title>Ismael Sanchez Perez</title>
 </head>
 <body>
 	<div class="container">
 		<h1>Biografía</h1>
-		<p>Holi, soy Xiomara Lizeth Amador Aguilera, estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico.</p>
+		<p>Holi, soy ismael Sanchez Perez, estudiante de Doctorado en Gerencia de proyectos, 
 		<div class="links">
 			<a href="https://github.com/txiomaraamador" target="_blank">Mi cuenta de GitHub</a><br>
 		</div>
